@@ -36,7 +36,7 @@
 
 ```bash
 # Clone the repository | 克隆仓库
-git clone https://github.com/chenpipi0807/github-repo-health-analyzer.git
+git clone https://github.com/chenpipi0807/github_repo_analyzer
 cd github-repo-health-analyzer
 
 # Install dependencies | 安装依赖
