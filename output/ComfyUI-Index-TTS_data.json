@@ -1,0 +1,93 @@
+{
+  "basic": {
+    "name": "ComfyUI-Index-TTS",
+    "full_name": "chenpipi0807/ComfyUI-Index-TTS",
+    "description": "使用IndexTTS模型在ComfyUI中实现高质量文本到语音转换的自定义节点。支持中文和英文文本，可以基于参考音频复刻声音特征。",
+    "stars": 645,
+    "forks": 64,
+    "watchers": 645,
+    "open_issues": 95,
+    "language": "Python",
+    "created_at": "2025-04-22T09:08:37Z",
+    "updated_at": "2026-03-05T13:57:39Z",
+    "size": 64031,
+    "license": "No license",
+    "topics": []
+  },
+  "contributors": {
+    "total": 6,
+    "top_contributors": [
+      {
+        "login": "chenpipi0807",
+        "contributions": 116
+      },
+      {
+        "login": "SnowWindDancing",
+        "contributions": 3
+      },
+      {
+        "login": "EvgenyAfanasev",
+        "contributions": 1
+      },
+      {
+        "login": "zhangchang",
+        "contributions": 1
+      },
+      {
+        "login": "duron600",
+        "contributions": 1
+      },
+      {
+        "login": "zhuanvi",
+        "contributions": 1
+      }
+    ],
+    "avg_contributions": 20.5,
+    "total_contributions": 123
+  },
+  "issues": {
+    "total": 97,
+    "open": 90,
+    "closed": 7,
+    "resolution_rate": 0.07216494845360824,
+    "avg_resolution_time": 6.285714285714286
+  },
+  "pulls": {
+    "total": 7,
+    "open": 0,
+    "merged": 7,
+    "closed": 0,
+    "merge_rate": 1.0
+  },
+  "health": {
+    "total_score": 40.3,
+    "grade": "D",
+    "factors": [
+      [
+        "Stars Popularity",
+        6.45,
+        20
+      ],
+      [
+        "Contributor Diversity",
+        12,
+        20
+      ],
+      [
+        "Issue Resolution",
+        1.4432989690721647,
+        20
+      ],
+      [
+        "PR Merge Rate",
+        20.0,
+        20
+      ],
+      [
+        "Recent Activity",
+        0.4,
+        20
+      ]
+    ]
+  }
+}
